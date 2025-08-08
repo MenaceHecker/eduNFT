@@ -1,4 +1,4 @@
-# A 1-man project created during HackGT 8 - 2021
+
 Video Presentation: https://youtu.be/wmo58AI7Kg0
 
 ## Disclaimer
